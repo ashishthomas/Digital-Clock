@@ -30,7 +30,6 @@
 ~ live server
 
 #4. Enjoy!
-~
 
 ```
 
